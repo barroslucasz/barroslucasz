@@ -1,4 +1,4 @@
-# Olá, Me chamo Lucas! 👋
+# Olá, Me chamo Lucas! 🤙
 
 ## 🚀 Sobre mim
 Técnico em informática em transição de carreira para a área da programação.
