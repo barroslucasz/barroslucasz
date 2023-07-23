@@ -1,4 +1,5 @@
 # Olá, Me chamo Lucas! 🤙
+Seja bem-vindo ao meu perfil do GitHub aqui compartilho meus projetos e estudos! 💻
 
 ## 🚀 Sobre mim
 Técnico em informática em transição de carreira para a área da programação.
@@ -10,7 +11,7 @@ Atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FBV.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barroslucasz)
 
-## 🛠 Habilidades
+## 🛠 Estatísticas
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barroslucasz&theme=blue-green)
 
