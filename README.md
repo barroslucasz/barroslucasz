@@ -1,3 +1,5 @@
+# Olá, Me chamo Lucas! 👋
+
 ## 🚀 Sobre mim
 Técnico em informática em transição de carreira para a área da programação.
 Atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FBV.
@@ -11,9 +13,6 @@ Atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FBV.
 ## 🛠 Habilidades
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barroslucasz&theme=blue-green)
-
-# Olá, Me chamo Lucas! 👋
-
 
 ## Outras Informações
 👩‍💻 Trabalho atualmente na CSU dando suporte aos clientes do iFood.
