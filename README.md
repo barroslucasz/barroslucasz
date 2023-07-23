@@ -10,7 +10,8 @@ Atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FBV.
 
 ## 🛠 Habilidades
 
-Python & Java
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barroslucasz&theme=blue-green)
+
 # Olá, Me chamo Lucas! 👋
 
 
