@@ -2,8 +2,7 @@
 Seja bem-vindo ao meu perfil do GitHub aqui compartilho meus projetos e estudos! 💻
 
 ## 🚀 Sobre mim
-Técnico em informática em transição de carreira para a área da programação.
-Atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FBV.
+Técnico em informática migrando para o mundo do programação.
 
 
 ## 🔗 Links
@@ -16,8 +15,8 @@ Atualmente aluno do curso de Análise e Desenvolvimento de Sistemas na FBV.
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barroslucasz&theme=blue-green)
 
 ## Outras Informações
-👩‍💻 Trabalho atualmente na CSU dando suporte aos clientes do iFood.
+👩‍💻 Trabalho atualmente na CSU dando suporte aos clientes do iFood
 
-🧠 Estou aprendendo Java.
+🧠 Estudando Java☕
 
-📫 Para entrar em contato comigo basta ir nas minhas redes sociais disponíveis aqui.
+📫 Para entrar em contato comigo basta ir nas minhas redes sociais disponíveis aqui
