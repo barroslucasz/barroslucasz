@@ -12,8 +12,11 @@ Técnico em informática migrando para o mundo do programação.
 
 ## 🛠 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=barroslucasz&theme=blue-green)
-
+<div align="left">
+  <a href="https://github.com/barroslucasz">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barroslucasz&layout=compact&langs_count=7&theme=dark"/>
+</div>
+    
 ## Outras Informações
 👩‍💻 Trabalho atualmente na CSU dando suporte aos clientes do iFood
 
