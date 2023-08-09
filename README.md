@@ -27,8 +27,8 @@ Técnico em informática migrando para o mundo do programação.
 </div>
 
 ## Outras Informações
-👩‍💻 Trabalho atualmente na CSU dando suporte aos clientes do iFood
+👩‍💻 Trabalho atualmente na CSU dando suporte aos clientes do iFood;
 
-🧠 Estudando Java☕
+🧠 Estudando Java☕ pela DIO com oferecimento ao Bootcamp Santander 2023;
 
-📫 Para entrar em contato comigo basta ir nas minhas redes sociais disponíveis aqui
+📫 Para entrar em contato comigo basta ir nas minhas redes sociais disponíveis aqui.
