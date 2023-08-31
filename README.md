@@ -27,7 +27,7 @@ Técnico em informática migrando para o mundo do programação.
 </div>
 
 ## Outras Informações
-👩‍💻 Trabalho atualmente na CSU dando suporte aos clientes do iFood;
+👩‍💻 Trabalho atualmente no Grupo Mateus sendo Auxiliar CPD;
 
 🧠 Estudando Java☕ na DIO.ME oferecido pelo Bootcamp Santander 2023;
 
