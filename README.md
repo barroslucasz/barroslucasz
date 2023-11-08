@@ -27,7 +27,7 @@ Técnico em informática migrando para o mundo do programação.
 </div>
 
 ## Outras Informações
-👩‍💻 Trabalho atualmente no Grupo Mateus sendo Auxiliar CPD;
+👩‍💻 Trabalho atualmente no Grupo Mateus sendo Data Processing Technician;
 
 🧠 Estudando Java☕ na DIO.ME oferecido pelo Bootcamp Santander 2023;
 
