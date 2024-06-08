@@ -2,7 +2,7 @@
 Seja bem-vindo ao meu perfil do GitHub aqui compartilho meus projetos e estudos! 💻
 
 ## 🚀 Sobre mim
-Técnico em informática migrando para o mundo do programação.
+Técnico em informática migrando para o mundo DevOps.
 
 <div>
   <a href="https://instagram.com/barroslucasz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,8 +27,6 @@ Técnico em informática migrando para o mundo do programação.
 </div>
 
 ## Outras Informações
-👩‍💻 Trabalho atualmente no Grupo Mateus sendo Data Processing Technician;
+👩‍💻 Trabalho atualmente na TrueChange estagiando na Infraestrutura;
 
-🧠 Estudando Java☕ na DIO.ME oferecido pelo Bootcamp Santander 2023;
-
-📫 Para entrar em contato comigo basta ir nas minhas redes sociais disponíveis aqui.
+🧠 Estudando o mundo DevOps.
