@@ -2,7 +2,8 @@
 Seja bem-vindo ao meu perfil do GitHub aqui compartilho meus projetos e estudos! 💻
 
 ## 🚀 Sobre mim
-Técnico em informática migrando para o mundo DevOps.
+Analista de Infraestrutura com foco em ambientes Microsoft gerenciando identidade, dispositivos e segurança em nuvem.
+Tenho direcionado minha especialização para automação e cloud computing, buscando reduzir trabalho manual e aumentar a resiliência dos ambientes
 
 <div>
   <a href="https://instagram.com/barroslucasz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -27,6 +28,6 @@ Técnico em informática migrando para o mundo DevOps.
 </div>
 
 ## Outras Informações
-👩‍💻 Trabalho atualmente na TrueChange estagiando na Infraestrutura;
+👩‍💻 Trabalho atualmente na TrueChange sendo Analista de Infraestrutura;
 
 🧠 Estudando o mundo DevOps.
